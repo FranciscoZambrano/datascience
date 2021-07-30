@@ -1,2 +1,3 @@
-# Apuntes sobre Data Science y Machine Learning
+Sitio web de apuntes de Data Science y Machine Learning
+Sito en Construccion
 
